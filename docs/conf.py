@@ -1,27 +1,9 @@
-# -*- coding: utf-8 -*-
-#
-# Configuration file for the Sphinx documentation builder.
-#
-# This file does only contain a selection of the most common options. For a
-# full list see the documentation:
-# http://www.sphinx-doc.org/en/master/config
 
-# -- Path setup --------------------------------------------------------------
-
-# If extensions (or modules to document with autodoc) are in another directory,
-# add these directories to sys.path here. If the directory is relative to the
-# documentation root, use os.path.abspath to make it absolute, like shown here.
-#
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
 import sphinx_rtd_theme
 
-# -- Project information -----------------------------------------------------
-
-project = u'Web Design and Development - APSSDC'
-copyright = u'2020, Andhra Pradesh State Skill Development - ML Team'
-author = u'Andhra Pradesh State Skill Development - ML Team'
+project = u'Android App Development Documentation'
+copyright = u'2020, Andhra Pradesh State Skill Development - Android Team'
+author = u'Andhra Pradesh State Skill Development - Android Team'
 
 # The short X.Y version
 version = u''
@@ -100,7 +82,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'WebDesignandDevelopment-APSSDCdoc'
+htmlhelp_basename = 'AndroidAppDevelopmentDocumentationdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -127,8 +109,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'WebDesignandDevelopment-APSSDC.tex', u'Web Design and Development - APSSDC Documentation',
-     u'Andhra Pradesh State Skill Development - ML Team', 'manual'),
+    (master_doc, 'AndroidAppDevelopmentDocumentationdoc.tex', u'Android App Development Documentation',
+     u'Andhra Pradesh State Skill Development - Android Team', 'manual'),
 ]
 
 
@@ -137,7 +119,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'webdesignanddevelopment-apssdc', u'Web Design and Development - APSSDC Documentation',
+    (master_doc, 'AndroidAppDevelopmentDocumentationdoc', u'Android App Development Documentation',
      [author], 1)
 ]
 
@@ -148,8 +130,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'WebDesignandDevelopment-APSSDC', u'Web Design and Development - APSSDC Documentation',
-     author, 'WebDesignandDevelopment-APSSDC', 'One line description of project.',
+    (master_doc, 'AndroidAppDevelopmentDocumentationdoc', u'Android App Development Documentation',
+     author, 'Android App Development Documentation', 'One line description of project.',
      'Miscellaneous'),
 ]
 
