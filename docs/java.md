@@ -1,4 +1,4 @@
-![Java](java.png)
+![](java.png)
 
 # INTRODUCTION TO JAVA
 
@@ -20,7 +20,7 @@ The history of Java is very interesting. Java was originally designed for intera
 
 The principles for creating Java programming were "Simple, Robust, Portable, Platform-independent, Secured, High Performance, Multithreaded, Architecture Neutral, Object-Oriented, Interpreted, and Dynamic". Java was developed by James Gosling, who is known as the father of Java, in 1995. James Gosling and his team members started the project in the early '90s.
 
-![Gosling](gosling.jpg)
+![](gosling.jpg)
 
 James Gosling - founder of java
 Currently, Java is used in internet programming, mobile devices, games, e-business solutions, etc. There are given significant points that describe the history of Java.
