@@ -11,6 +11,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    :numbered:
    
    java.md
+   installAndroid.md
 
 
 
