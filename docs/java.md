@@ -15,20 +15,18 @@
 
 •	Java Virtual Machine (JVM) executes Java code, but it has been written in platform-specific languages such as C/C++ /ASM, etc. JVM is not written in Java and hence cannot be platform independent, and Java interpreter is a part of JVM.
 
-## History of Java :
+## History of Java
 The history of Java is very interesting. Java was originally designed for interactive television, but it was too advanced technology for the digital cable television industry at the time. The history of Java starts with the Green Team. Java team members (also known as Green Team), initiated this project to develop a language for digital devices such as set-top boxes, televisions, etc. However, it was suited for internet programming. Later, Java technology was incorporated by Netscape.
 
 The principles for creating Java programming were "Simple, Robust, Portable, Platform-independent, Secured, High Performance, Multithreaded, Architecture Neutral, Object-Oriented, Interpreted, and Dynamic". Java was developed by James Gosling, who is known as the father of Java, in 1995. James Gosling and his team members started the project in the early '90s.
 
-<p align="center">
-  <img src="images/gosling.jpg"/>
-</p>
+![Gosling](gosling.jpg)
 
 James Gosling - founder of java
 Currently, Java is used in internet programming, mobile devices, games, e-business solutions, etc. There are given significant points that describe the history of Java.
 
 
-## Where is java being  used :
+## Where is java being  used
 Earlier Java was only used to design and program small computing devices, but it was later adopted as one of the platform-independent programming languages, and now according to Sun, 3 billion devices run Java.
 
 •	Java is one of the most important programming languages in today's IT industries.
@@ -43,7 +41,7 @@ Earlier Java was only used to design and program small computing devices, but it
 
 •	Mobile - In addition to the above technology, Java is widely used in mobile devices nowadays, many types of games and applications are being made in Java.
 
-## Types of java applications :
+## Types of java applications
 1.	Web Application - Java is used to create server-side web applications. Currently, Servlet, JSP, Struts, JSF, etc. technologies are used.
 
 2.	Standalone Application - It is also known as the desktop application or window-based application. An application that we need to install on every machine or server such as media player, antivirus, etc. AWT and Swing are used in java for creating standalone applications.
@@ -52,7 +50,7 @@ Earlier Java was only used to design and program small computing devices, but it
 
 4.	Mobile Application - Java is used to create application software for mobile devices. Currently, Java ME is used for building applications for small devices, and also Java is a programming language for Google Android application development.
 
-## Features of java : 
+## Features of java 
 
 •	Object-Oriented - Java supports the features of object-oriented programming. Its object model is simple and easy to expand.
 
@@ -73,26 +71,26 @@ Earlier Java was only used to design and program small computing devices, but it
 
 # BASIC CONCEPTS OF OBJECT-ORIENTED PROGRAMMING 
 
-## Objects :
+## Objects
 
    Objects are the basic runtime entities in an object oriented system. They may represent a person, a place, a bank account, a table of data or any item that the program has to handle.
 
-## Class : 
+## Class 
    Object contains data, and code to manipulate that data. The entire set of data and code of an object can be made a user-defined data type with the help of a class.
 
- ## Data Encapsulation :
+ ## Data Encapsulation
  
    The wrapping up of data and functions into a single unit is known as encapsulation. The data is not accessible to the outside world, only those function which are wrapped in the can access it. These functions provide the interface between the object’s data and the program. This insulation of the data from direct access by the program is called data hiding or information hiding.
 
-## Data Abstraction :
+## Data Abstraction
 
    Abstraction refers to the act of representing essential features without including the background details or explanations. Since classes use the concept of data abstraction, they are known as Abstract Data Types (ADT).
 
-## Inheritance :
+## Inheritance
 
    Inheritance is the process by which objects of one class acquire the properties of objects of another class. In OOP, the concept of inheritance provides the idea of reusability. This means we can add additional features to an existing class without modifying it.
 
-## Polymorphism :
+## Polymorphism
 
    Polymorphism, a Greek term means to ability to take more than one form. An operation may exhibits different behaviors in different instances. The behavior depends upon the type of data used in the operation.
      For example consider the operation of addition for two numbers; the operation will generate a sum. If the operands are string then the operation would produce a third string by concatenation.The process of making an operator to exhibit different behavior in different instances is known operator overloading.
@@ -100,7 +98,7 @@ Earlier Java was only used to design and program small computing devices, but it
 
 # ABSTRACT CLASS AND INTERFACES 
 
-## Abstract Class :
+## Abstract Class
 
 A class that is declared using “abstract” keyword is known as abstract class. It can have abstract methods (methods without body) as well as concrete methods (regular methods with body). A normal class (non-abstract class) cannot have abstract methods.
 An abstract class cannot be instantiated, which means you are not allowed to create an object of it.
@@ -121,7 +119,7 @@ An abstract class outlines the methods but not necessarily implements all the me
 ```
 
 
-## Rules :
+## Rules
 
 Note 1: As we seen in the above example, there are cases when it is difficult or often unnecessary to implement all the methods in parent class. In these cases, we can declare the parent class as abstract, which makes it a special class which is not complete on its own. A class derived from the abstract class must implement all those methods that are declared as abstract in the parent class.
 
@@ -129,19 +127,19 @@ Note 2: Abstract class cannot be instantiated which means you cannot create the 
 
 Note 3: If a child does not implement all the abstract methods of abstract parent class, then the child class must need to be declared abstract as well.
 
-## Interface :
+## Interface
 
 Interface looks like a class but it is not a class. An interface can have methods and variables just like the class but the methods declared in interface are by default abstract (only method signature, no body, see: Java abstract method). Also, the variables declared in an interface are public, static & final by default.
 
-## What is the use of interface : 
+## What is the use of interface 
 
 As mentioned above they are used for full abstraction. Since methods in interfaces do not have body, they have to be implemented by the class before you can access them. The class that implements interface must implement all the methods of that interface. Also, java programming language does not allow you to extend more than one class, However you can implement more than one interfaces in your class.
 
-Syntax:
+Syntax
 
 Interfaces are declared by specifying a keyword “interface”.
 
-## Example :
+## Example 
 ```
 interface MyInterface
 {
@@ -154,11 +152,11 @@ interface MyInterface
 ```
 
 
-# EXCEPTION HANDLING :
+# EXCEPTION HANDLING 
 
 Exception handling is one of the most important feature of java programming that allows us to handle the runtime errors caused by exceptions.
 
-## What is an exception : 
+## What is an exception 
 
 An Exception is an unwanted event that interrupts the normal flow of the program. When an exception occurs program execution gets terminated. In such cases we get a system generated error message. The good thing about exceptions is that they can be handled in Java. By handling the exceptions we can provide a meaningful message to the user about the issue rather than a system generated message, which may not be understandable to a user.
 
@@ -166,13 +164,13 @@ There can be several reasons that can cause a program to throw exception.
 
 For example: Opening a non-existing file in your program, Network connection problem, bad input data provided by user etc
 
-## Exception handling :
+## Exception handling
 
 If an exception occurs, which has not been handled by programmer then program execution gets terminated and a system generated error message is shown to the user.
 Exception handling ensures that the flow of the program doesn’t break when an exception occurs. For example, if a program has bunch of statements and an exception occurs midway after executing certain statements then the statements after the exception will not execute and the program will terminate abruptly.
 By handling we make sure that all the statements execute and the flow of program doesn’t break.
 
-## Difference between error and exception :
+## Difference between error and exception
 
 Errors indicate that something severe enough has gone wrong, the application should crash rather than try to handle the error.
 Exceptions are events that occurs in the code. A programmer can handle such conditions and take necessary corrective actions.
@@ -186,7 +184,7 @@ ArithmeticException – When bad data is provided by user, for example, when you
 ArrayIndexOutOfBoundsException – When you try to access the elements of an array out of its bounds, for example array size is 5 (which means it has five elements) and you are trying to access the 10th element.
 
 
-## Types of exceptions :
+## Types of exceptions
 
 There are two types of exceptions in Java:
 
@@ -194,11 +192,11 @@ There are two types of exceptions in Java:
 
 2)Unchecked exceptions
 
-## Checked exceptions :
+## Checked exceptions
 
 All exceptions other than Runtime Exceptions are known as Checked exceptions as the compiler checks them during compilation to see whether the programmer has handled them or not. If these exceptions are not handled/declared in the program, you will get compilation error. For example, SQLException, IOException, ClassNotFoundException etc.
 
-## Unchecked Exceptions :
+## Unchecked Exceptions
 
 Runtime Exceptions are also known as Unchecked Exceptions. These exceptions are not checked at compile-time so compiler does not check whether the programmer has handled them or not but it’s the responsibility of the programmer to handle these exceptions and provide a safe exit. For example, ArithmeticException, NullPointerException, ArrayIndexOutOfBoundsException etc.Compiler will never force you to catch such exception or force you to declare it in the method using throws keyword.
 
@@ -226,7 +224,7 @@ TERMINATED – A thread that has exited is in this state.
 
 A thread can be in only one state at a given point in time.
 
-## Creating a thread in Java :
+## Creating a thread in Java
 
 There are two ways to create a thread in Java:
 
@@ -250,18 +248,18 @@ Before we begin with the programs(code) of creating threads, let’s have a look
 
 •	start(): start a thread by calling its run() method
 
-## Thread class and Runnable interface :
+## Thread class and Runnable interface
 
 A thread can be defined in two ways. First, by extending a Thread class that has already implemented a Runnable interface. Second, by directly implementing a Runnable interface. When you define a thread by extending Thread class you have to override the run() method in Thread class. When you define a thread implementing a Runnable interface you have to implement the only run() method of Runnable interface. 
 
 The basic difference between Thread and Runnable is that each thread defined by extending Thread class creates a unique object and get associated with that object. On the other hand, each thread defined by implementing Runnable interface shares the same object.
 
-## Thread :
+## Thread
 
 Thread is a class in java.lang package. The Thread class extends an Object class, and it implements Runnable interfaces. The Thread class has constructors and methods to create and operate on the thread. When we create multiple threads, each thread creates a unique object and get associated with that object. If you create a thread extending Thread class, further you can not extend any other class as java does not support multiple inheritance.
 So, you should choose to extend Thread class only when you also want to override some other methods of Thread class. 
 
-## Example :
+## Example
 ```
 class MultithreadingDemo extends Thread{  
   public void run(){  
@@ -274,14 +272,14 @@ class MultithreadingDemo extends Thread{
 }
 ```
 
-## Output:
+## Output
 My thread is in running state.
 
 
-## Runnable Interface :
+## Runnable Interface 
 Runnable is an interface in java.lang package. Implementing Runnable interface we can define a thread. Runnable interface has a single method run(), which is implemented by the class that implements Runnable interface. When you choose to define thread implementing a Runnable interface you still have a choice to extend any other class. When you create multiple threads by implementing Runnable interface, each thread shares the same runnable instance.
 
-## Example :
+## Example
 ```
 class MultithreadingDemo implements Runnable{  
   public void run(){  
@@ -295,5 +293,5 @@ class MultithreadingDemo implements Runnable{
 }
 ```
 
-## Output:
+## Output
 My thread is in running state.
