@@ -16,6 +16,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    activitylifecycle.md
    UserInterFaceComponents.md
    buttons.md
+   inputcontrols.md
 
 
 
