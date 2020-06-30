@@ -12,6 +12,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    
    java.md
    installAndroid.md
+   intents.md
 
 
 
