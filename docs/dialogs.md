@@ -6,20 +6,12 @@ For example, an alert dialog might require the user to click **Continue** after 
 
 You can also use a dialog to provide choices in the style of radio buttons, as shown on the right side of the figure below.
 
-<br>
-<p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_alerts_simple_dialog_composite.png">
-</p>
-<br>
+[Click Here For Image](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_alerts_simple_dialog_composite.png)
 
 
 The base class for all dialog components is a [Dialog](https://developer.android.com/reference/android/app/Dialog.html). There are several useful _Dialog_ subclasses for alerting the user on a condition, showing status or progress, displaying information on a secondary device, or selecting or confirming a choice, as shown on the left side of the figure below. The Android SDK also provides ready-to-use dialog subclasses such as pickers for picking a time or a date, as shown on the right side of the figure below. Pickers allow users to enter information in a predetermined, consistent format that reduces the chance for input error.
 
-<br>
-<p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_confirmation_and_picker_dialogs_composite.png">
-</p>
-<br>
+[Click Here for Image](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_confirmation_and_picker_dialogs_composite.png)
 
 Dialogs always retain focus until dismissed or a required action has been taken.
 
@@ -40,11 +32,8 @@ For example, an alert dialog might require the user to click **Continue** after 
 Use the [AlertDialog](https://developer.android.com/reference/android/app/AlertDialog.html) subclass of the [Dialog](https://developer.android.com/reference/android/app/Dialog.html) class to show a standard dialog for an alert. The _AlertDialog_ class allows you to build a variety of dialog designs. An alert dialog can have the following regions (refer to the diagram below):
 
 
-<br>
-<p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/alertdialog_output.jpg">
-</p>
-<br>
+[Click Here For Image](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/alertdialog_output.jpg)
+
 
 1. **_Title_**: A title is optional. Most alerts don't need titles. If you can summarize a decision in a sentence or two by either asking a question (such as, "Discard draft?") or making a statement related to the action buttons (such as, "Click OK to continue"), don't bother with a title. Use a title if the situation is high-risk, such as the potential loss of connectivity or data, and the content area is occupied by a detailed message, a list, or custom layout.
 2. **_Content area_**: The content area can display a message, a list, or other custom layout.
@@ -108,12 +97,7 @@ alertDialog.show();
 
 Android provides ready-to-use dialogs, called _pickers_, for picking a time or a date. Use them to ensure that your users pick a valid time or date that is formatted correctly and adjusted to the user's locale. Each picker provides controls for selecting each part of the time (hour, minute, AM/PM) or date (month, day, year).
 
-<br>
-<p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/pickers_output.png">
-</p>
-<br>
-
+[Click Here For image](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/pickers_output.png)
 
 When showing a picker, you should use an instance of DialogPickerDialog, which displays a dialog window floating on top of its Activity window.
 
