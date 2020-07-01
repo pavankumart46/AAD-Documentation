@@ -18,6 +18,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    buttons.md
    inputcontrols.md
    menu.md
+   dialogs.md
    
 
 
