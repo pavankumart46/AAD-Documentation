@@ -66,7 +66,7 @@ dependencies
 ```
 
 4. Next, we will create data model to parse our sample JSON data with following structure.[For Json Url](https://jsonplaceholder.typicode.com/photos)
-<img src="https://github.com/Muneiahtellakula/kotlin-learningTasks/blob/master/jsonplaceholder.png">
+<img src="https://github.com/Muneiahtellakula/kotlin-learningTasks/blob/master/jsonplaceholder.png?raw=true">
 
  * Create a class named Repo.java under model package like this
 
@@ -392,6 +392,6 @@ enqueue() asynchronously sends the request and notifies your app with a callback
 
 **Output Screen**
 
-<img src="https://github.com/mastan511/MastanImages/blob/master/r1.gif" height=400 width=300>
+<img src="https://github.com/mastan511/MastanImages/blob/master/r1.gif?raw=true" height=400 width=300>
 
 
