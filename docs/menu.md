@@ -5,7 +5,7 @@ A menu is a set of options. The user can select from a menu to perform a functio
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/types_menus.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/types_menus.png?raw=true">
 </p>
 
 1. **App bar with Options menu:** Appears in the app bar and provides the primary options that affect use of the app itself.
@@ -39,7 +39,7 @@ The options menu appears in the right corner of the app bar. The app bar is spli
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/option%20_menu.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/option%20_menu.png?raw=true">
 </p>
 <br>
 
@@ -61,7 +61,7 @@ If you are not using the Basic Activity template, use the resource-inflate desig
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_options_menu_design_pattern.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_options_menu_design_pattern.png?raw=true">
 </p>
 <br>
 
@@ -77,14 +77,14 @@ If you are not using the Basic Activity template, use the resource-inflate desig
         * Select the **res** folder in the **Project > Android** pane and choose **File > New > Android resource directory.**
         <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dircectory_creation.PNG">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dircectory_creation.PNG?raw=true">
         </p>
         <br>
         
         * Choose **menu** in the **Resource** type drop-down menu, and click **OK.**
         <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/menu_resourse_directory.PNG">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/menu_resourse_directory.PNG?raw=true">
         </p>
         <br>
         
@@ -92,14 +92,14 @@ If you are not using the Basic Activity template, use the resource-inflate desig
        * Select the new **menu** folder, and choose **File > New > Menu resource file.**
         <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/menuxml_file_creation.PNG">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/menuxml_file_creation.PNG?raw=true">
         </p>
         <br>
         
         * Enter the name, such as **Ex: menu_main**, and click **OK**. The new **_menu_main.xml_** file now resides within the **menu** folder.
         <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/menu_xml_file.PNG">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/menu_xml_file.PNG?raw=true">
         </p>
         <br>
         
@@ -116,7 +116,7 @@ If you are not using the Basic Activity template, use the resource-inflate desig
        
  <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/image_creation.PNG">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/image_creation.PNG?raw=true">
         </p>
  <br>
         
@@ -154,7 +154,7 @@ If you are not using the Basic Activity template, use the resource-inflate desig
        
 <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/orderattribute.PNG">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/orderattribute.PNG?raw=true">
         </p>
  <br>
      
@@ -338,7 +338,7 @@ Use a contextual menu to allow users to take an action on a selected [View](http
     
 <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/Context%20Menu%20Types.jpg">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/Context%20Menu%20Types.jpg?raw=true">
         </p>
  <br>
 
@@ -350,7 +350,7 @@ Use a contextual menu to allow users to take an action on a selected [View](http
 
 <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/contextmenufloating.png">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/contextmenufloating.png?raw=true">
         </p>
  <br>
 
@@ -461,7 +461,7 @@ When the user performs a long-click on the article in the _ListView_, the floati
      
 <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/ContextMenuExample.jpg">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/ContextMenuExample.jpg?raw=true">
         </p>
  <br>
      
@@ -478,7 +478,7 @@ A **_contextual action bar_** appears at the top of the screen to present action
      
 <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/context_actionbar_singlecomponent.jpg">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/context_actionbar_singlecomponent.jpg?raw=true">
         </p>
  <br>
      
@@ -504,7 +504,7 @@ Follow these steps to create a contextual action bar, as shown in the figure bel
      
 <br>
         <p align="center">
-            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_context_actionbar_design_pattern.png">
+            <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_context_actionbar_design_pattern.png?raw=true">
         </p>
  <br>
      
@@ -733,7 +733,7 @@ For example, the Gmail app uses a popup menu anchored to the overflow icon in th
     
 <br>
  <p align="center">
-    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_popupmenu.png">
+    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_popupmenu.png?raw=true">
  </p>
 <br>
 
@@ -743,7 +743,7 @@ Follow these steps to create a popup menu (refer to figure below):
 
 <br>
  <p align="center">
-    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_popup_menu_design_pattern.png">
+    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_popup_menu_design_pattern.png?raw=true">
  </p>
 <br>
     
@@ -760,7 +760,7 @@ Create the XML menu resource directory and file by following the steps in a prev
     
 <br>
  <p align="center">
-    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/popup_menu_settings_favorites.png">
+    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/popup_menu_settings_favorites.png?raw=true">
  </p>
 <br>
     
@@ -860,7 +860,7 @@ To perform an action when the user selects a popup menu item, implement the [onM
     
 <br>
  <p align="center">
-    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/pop_up_menu_output.jpg">
+    <img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/pop_up_menu_output.jpg?raw=true">
  </p>
 <br>    
     
