@@ -22,7 +22,7 @@ WorkManager is a library used to enqueue deferrable work that is guaranteed to e
 
 ### Scheduling WorkManager :
 * Below Graph represents the flow of WorkManager :
-<img src="https://github.com/mastan511/MastanImages/blob/master/w2.png" height=300dp>
+[Access the image here](https://github.com/mastan511/MastanImages/blob/master/w2.png)
 
 ### How is WorkManager :
 * Add Dependency to the BuildGradle(app) to import Workmanager libraries 
