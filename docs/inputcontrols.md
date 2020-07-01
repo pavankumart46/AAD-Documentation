@@ -360,9 +360,9 @@ Implement/override the _onNothingSelected()_ callback method of the [AdapterView
 
 For more information about using spinners, see [Spinners](https://developer.android.com/guide/topics/ui/controls/spinner.html) in the Android developer documentation.
 
-## Practical Example:
+### Practical Example:
 
-### activity_mail.xml
+**activity_mail.xml**
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
