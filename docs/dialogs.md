@@ -93,7 +93,7 @@ To display the dialog, call its show() method:
 alertDialog.show();
 ```
 
-## Date and Time pickers
+### Date and Time pickers
 
 Android provides ready-to-use dialogs, called _pickers_, for picking a time or a date. Use them to ensure that your users pick a valid time or date that is formatted correctly and adjusted to the user's locale. Each picker provides controls for selecting each part of the time (hour, minute, AM/PM) or date (month, day, year).
 
