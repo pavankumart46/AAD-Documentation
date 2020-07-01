@@ -16,7 +16,7 @@ Emphasize user actions in your app so that the user knows right away what to do,
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/bold_fab.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/bold_fab.png?raw=true">
 </p>
 <br>
 
@@ -64,7 +64,7 @@ In the screenshot below, the background of the action bar uses colorPrimary (ind
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/bold_switch.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/bold_switch.png?raw=true">
 </p>
 <br>
 
@@ -137,13 +137,13 @@ In this case, if the surface behind the text changes color, you must update the 
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/opacity_do.PNG">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/opacity_do.PNG?raw=true">
 </p>
 <br>
 Use a transparent version of black on a colored surface to preserve legibility.
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/opacity_don't%20do.PNG">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/opacity_don't%20do.PNG?raw=true">
 </p>
 <br>
 Avoid using opaque gray text that isn’t legible on colored surfaces.
@@ -162,7 +162,7 @@ Be careful not to use too many different type sizes and styles together in your 
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/typography_styles.png" width="500dp">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/typography_styles.png?raw=true" width="500dp">
 </p>
 <br>
 
@@ -202,7 +202,7 @@ A font provider is an application that retrieves fonts and caches them locally s
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/downloadable-fonts-process.png" width="400dp">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/downloadable-fonts-process.png?raw=true" width="400dp">
 </p>
 <br>
 
@@ -218,7 +218,7 @@ The 8dp square grid guides the placement of elements in your layout. Every squar
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/8dp_grid.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/8dp_grid.png?raw=true">
 </p>
 <br>
 
@@ -236,7 +236,7 @@ Keylines are outlines in a layout grid that determine the placement of text and 
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/keylines.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/keylines.png?raw=true">
 </p>
 <br>
 
@@ -274,7 +274,7 @@ Use a floating action button (FAB) for actions you want to encourage users to ta
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/fab_example.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/fab_example.png?raw=true">
 </p>
 <br>
 
@@ -307,7 +307,7 @@ A snackbar provides brief feedback about an operation through a message in a hor
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/snackbar_example.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/snackbar_example.png?raw=true">
 </p>
 <br>
 
@@ -332,7 +332,7 @@ Use tabs to organize content at a high level. For example, the user might use ta
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/tabs_example.png">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/tabs_example.png?raw=true">
 </p>
 <br>
 
@@ -346,7 +346,7 @@ A card is a sheet of material that serves as an entry point to more detailed inf
 
 A card collection is a layout of cards on the same plane. The figure below shows one card in a card collection (marked by #1).
 
-[Click Here For Image](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/card_example.png)
+![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/card_example.png?raw=true)
 
 [CardView](https://developer.android.com/guide/topics/ui/layout/cardview) is included as part of the v7 support library. To use the library, include the following dependency in your build.gradle (Module: app) file:
 
@@ -358,7 +358,7 @@ implementation 'androidx.cardview:cardview:1.0.0'
 
 A list is a single continuous column of rows of equal width. Each row functions as a container for a tile. Tiles hold content, and can vary in height within a list.
 
-[Click Here For Images](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/list_example.png)
+![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/list_example.png?raw=true)
 
 In the figure above:
 
