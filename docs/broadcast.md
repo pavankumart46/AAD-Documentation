@@ -184,7 +184,7 @@ if (intentAction != null) {
 4. Run your app. After the app is running, connect or disconnect your device's power supply. A Toast is displayed each time you connect or disconnect the power supply, as long as your Activity is running.
 
 ### Output
-<img src="https://github.com/mastan511/MastanImages/blob/master/ezgif.com-video-to-gif.gif" height=400 width=200>
+<img src="https://raw.githubusercontent.com/mastan511/MastanImages/master/ezgif.com-video-to-gif.gif" height=400 width=200>
 
 ### Task 2. Send and receive a custom broadcast
 In addition to responding to system broadcasts, your app can send and receive custom broadcasts. Use a custom broadcast when you want your app to take an action without launching an activity, for example when you want to let other apps know that data has been downloaded to the device.
@@ -268,4 +268,4 @@ implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
 ```
 
 ### OutPut
-<img src="https://github.com/mastan511/MastanImages/blob/master/ezgif.com-video-to-gif%20(1).gif" height=400 width=200>
+<img src="https://raw.githubusercontent.com/mastan511/MastanImages/master/ezgif.com-video-to-gif%20(1).gif" height=400 width=200>
