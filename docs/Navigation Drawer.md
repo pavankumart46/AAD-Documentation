@@ -4,7 +4,7 @@ A navigation drawer is a panel that usually displays navigation options on the l
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_nav_drawer_composite.png">
+<img  src="https://raw.githubusercontent.com/saisankar12/document/master/saisankar_concept_images/dg_nav_drawer_composite.png">
 </p>
 <br>
 
@@ -82,7 +82,7 @@ Refer to the figure below that corresponds to this layout:
 ```
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_nav_drawer_layout_diagram1.png">
+<img  src="https://raw.githubusercontent.com/saisankar12/document/master/saisankar_concept_images/dg_nav_drawer_layout_diagram1.png">
 </p>
 <br>
 
@@ -343,6 +343,6 @@ After the user taps a navigation drawer selection or taps outside the drawer, th
 
 <br>
 <p align="center">
-<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/nav_out_put.gif">
+<img  src="https://raw.githubusercontent.com/saisankar12/document/master/saisankar_concept_images/nav_out_put.gif">
 </p>
 <br>
