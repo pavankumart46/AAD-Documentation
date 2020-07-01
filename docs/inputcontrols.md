@@ -4,7 +4,7 @@ This chapter introduces the Android _input controls_. Input controls are interac
 
 Android provides a variety of input controls for your UI. The figure below shows some popular ones.
 
-![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/user_input_controls_composite.png =200X200)
+[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/user_input_controls_composite.png)
 
 In the figure above:
 
@@ -108,7 +108,7 @@ Use a set of checkboxes when you want the user to select any number of choices, 
 
 Users expect checkboxes to appear in a vertical list, like a to-do list, or side-by-side if the labels are short.
 
-![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/checkboxes.png)
+[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/checkboxes.png)
 
 Each checkbox is a separate [CheckBox](https://developer.android.com/reference/android/widget/CheckBox.html) element in your XML layout. To create multiple checkboxes in a vertical orientation, use a vertical LinearLayout:
 
@@ -172,7 +172,7 @@ For more information about checkboxes, see [Checkboxes](https://developer.androi
 
 Use radio buttons when you have two or more options that are mutually exclusive. When the user selects one, the others are automatically deselected. (If you want to enable more than one selection from the set, use checkboxes.)
 
-![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/radiobuttons.png =200X200)
+[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/radiobuttons.png)
 
 Users expect radio buttons to appear as a vertical list, or side-by-side if the labels are short.
 
@@ -246,7 +246,7 @@ A spinner works well when the user has more than three choices, because spinners
 
 **Tip**: For more information about spinners, see the [Spinners](https://developer.android.com/guide/topics/ui/controls/spinner.html) guide.
 
-![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/spinner-android.png =200X200)
+[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/spinner-android.png)
 
 If you have a long list of choices, a spinner might extend beyond your layout, forcing the user to scroll. A spinner scrolls automatically, with no extra code needed. However, making the user scroll through a long list (such as a list of countries) isn't recommended, because it can be hard for the user to select an item.
 
@@ -273,7 +273,7 @@ Add an adapter that fills the _Spinner_ list with values. An adapter is like a b
 
 The adapter takes the data set you've specified (an array in this example), and makes a _View_ for each item in the data set (a _View_ within the _Spinner_), as shown in the figure below.
 
-![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_adapter_view.png =200X200)
+[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/dg_adapter_view.png)
 
 The [SpinnerAdapter](https://developer.android.com/reference/android/widget/SpinnerAdapter.html) class, which implements the _Adapter_ class, allows you to define two different views: one that shows the data values in the _Spinner_ itself, and one that shows the data in the drop-down list when the _Spinner_ is touched or clicked.
 
@@ -571,4 +571,4 @@ public class UserInoutControls extends AppCompatActivity {
 ```
 
 ### Output
-![](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/userinputcontrol_output.jpg =200X200)
+[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/userinputcontrol_output.jpg)
