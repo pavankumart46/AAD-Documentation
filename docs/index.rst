@@ -20,6 +20,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    menu.md
    dialogs.md
    materialdesign.md
+   navigationcomponents.md
    
 
 
