@@ -31,7 +31,7 @@
 
   
  ##### Let we go for Practical simple and easy example
-  <img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/nav.gif" width="250" height="350" />
+  <img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/nav.gif?raw=true" width="250" height="350" />
   
  ###### Get Started with the Navigation Component
  
@@ -218,12 +218,12 @@ task clean(type: Delete) {
 ```
  Navigation Graph Design follows 
 
-<img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/graph.jpg"/>
+<img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/graph.jpg?raw=true"/>
 
 
 * After that add the desinations at design of navigation_graph .Its, better to go for design because it is simple
 
-<img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/final_navi_graph_dessti.jpg"/>
+<img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/final_navi_graph_dessti.jpg?raw=true"/>
 
 #### navigation_graph.xml file
 
