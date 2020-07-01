@@ -38,7 +38,7 @@
 
 ## A Small Example here taking two components :
 
-<img src="https://github.com/Muneiahtellakula/android_development/blob/master/usrintr.png?raw=true">
+<img src="https://raw.githubusercontent.com/Muneiahtellakula/android_development/master/usrintr.png">
 
 **activity_main.xml**
 
