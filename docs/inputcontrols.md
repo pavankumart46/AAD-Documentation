@@ -4,7 +4,11 @@ This chapter introduces the Android _input controls_. Input controls are interac
 
 Android provides a variety of input controls for your UI. The figure below shows some popular ones.
 
-[](https://github.com/saisankar12/document/blob/master/saisankar_concept_images/user_input_controls_composite.png)
+<br>
+<p align="center">
+<img  src="https://github.com/saisankar12/document/blob/master/saisankar_concept_images/user_input_controls_composite.png">
+</p>
+<br>
 
 In the figure above:
 
