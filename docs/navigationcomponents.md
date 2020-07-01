@@ -30,10 +30,10 @@
  * **NavController(fragment):** An object that manages app navigation within a NavHost.   The NavController orchestrates the swapping of destination content in the NavHost as users move throughout your app
 
   
- ## Let we go for Practical simple and easy example
+ ##### Let we go for Practical simple and easy example
   <img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/nav.gif" width="250" height="350" />
   
- ### Get Started with the Navigation Component
+ ###### Get Started with the Navigation Component
  
     * This topic shows you how to set up and work with the Navigation component. For a high level overview of the Navigation component, see the Navigation overview
     * To include Navigation support in your project, 
@@ -422,6 +422,4 @@ public class NavigationHomeFragment extends Fragment {
 
 
 
-  #### Step 9:Run your application
-  
-  #                Thank you.....!
+  ##### Step 9:Run your application
