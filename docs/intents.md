@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
 * An additional <activity> element in the AndroidManifest.xml file that specifies the new activity. The second Activity definition does not include any Intent filters. If you plan to use this activity only within your app (and not enable that activity to be started by any other app), you do not need to add filters
 
 
-# What are intents?
+#### What are intents?
 **Android application components can connect to other Android applications. This connection is based on a task description represented by an Intent object.**
 
 * Intents are asynchronous messages which allow application components to request functionality from other Android components. Intents allow you to interact with components from the same applications as well as with components contributed by other applications. For example, an activity can start an external activity for taking a picture.
