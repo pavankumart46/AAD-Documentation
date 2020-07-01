@@ -13,7 +13,7 @@ WorkManager is a library used to enqueue deferrable work that is guaranteed to e
 
 ### Components of WorkManager :
 * Below image represents all the three components of WorkManager :
-<img src="https://github.com/mastan511/MastanImages/blob/master/w1.png" height=200dp>
+![](https://github.com/mastan511/MastanImages/blob/master/w1.png)
 1. Worker: The main class where we will put the work that needs to be done.
 
 2. WorkRequest: It defines an individual task, like it will define which worker class should execute the task.
