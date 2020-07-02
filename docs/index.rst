@@ -29,6 +29,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    workmanager.md
    shared.md
    room.md
+   firebase.md
    
 
 
