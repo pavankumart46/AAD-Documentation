@@ -9,31 +9,31 @@ Starting steps are the same as we have done with other authentication methods, w
 * Adding Firebase to the Android project or application, either manually or Firebase Assistance.
 * Adding the required libraries and JSON files.
 
-## Step 1:
+**Step 1:**
 
 Apart from firebase auth and core libraries, we have to add google play services auth in app.gradle file
 
 ![s1](https://user-images.githubusercontent.com/51777024/85913133-a944b180-b84f-11ea-93ae-6eb869d4a702.png)
 
-## Step 2:
+**Step 2:**
 
 In the next step, we have to enable the Google sign-in method in Firebase console. We also have to add a project supporting email.
 
 ![s2](https://user-images.githubusercontent.com/51777024/85913134-ad70cf00-b84f-11ea-8ae1-a7d3ffa6c374.png)
 
-## Step 3:
+**Step 3:**
 
 Just like our previous method, we have to set SHA-1 and SHA-256 keys.
 
 ![s3](https://user-images.githubusercontent.com/51777024/85913135-b2358300-b84f-11ea-80b3-744873b971f6.png)
 
-## Step 4:
+**Step 4:**
 
 In the next step, we will create the layout file that contains three buttons Google sign-in, sign-out, and sign-out and disconnect. The activity layout will look like:
 
 ![s4](https://user-images.githubusercontent.com/51777024/85913138-b661a080-b84f-11ea-92c2-c72b01232c78.png)
 
-## Step 5:
+**Step 5:**
 
 Now, we will modify our MainActivity.java file to perform the Google sign-in authentication in the following way:
 
@@ -201,7 +201,7 @@ public void onPointerCaptureChanged(boolean hasCapture) {
 ![s6](https://user-images.githubusercontent.com/51777024/85913142-bd88ae80-b84f-11ea-81bb-ba6a28dd4ec8.png)
 
 
-# Download Code:
+**Download Code:**
 
 https://github.com/AP-Skill-Development-Corporation/AdvancedAndroid/tree/master/GoogleSignInAuthentication
 
