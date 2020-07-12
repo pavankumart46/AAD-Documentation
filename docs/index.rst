@@ -24,6 +24,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    navigationcomponents.md
    Navigation Drawer.md
    tabnav.md
+   RecyclerView.md
    retrofit.md
    broadcast.md
    workmanager.md
