@@ -24,6 +24,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    navigationcomponents.md
    Navigation Drawer.md
    tabnav.md
+   BottomNavigation.md
    RecyclerView.md
    retrofit.md
    broadcast.md
@@ -39,6 +40,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    SettingAppIcong.md
    WebView.md
    Service.md
+   FirebaseMLkit.md
    
 
 
