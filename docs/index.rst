@@ -13,6 +13,7 @@ Welcome to Android Application Development - APSSDC's documentation!
    java.md
    installAndroid.md
    helloworld.md
+   ProjectStructure.md
    intents.md
    activitylifecycle.md
    UserInterFaceComponents.md
